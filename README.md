@@ -1,0 +1,17 @@
+It includes various codes related to Computer Graphics and related algorithms. All the related codes are:
+- A-buffer method
+- Boundary fill 4 connected
+- Boundary fill 8 connected
+- Cohen-Sutherland line clipping algorithm
+- DDA line drawing algorithm
+- Flood Fill algorithm
+- Illumination methods 
+- Midpoint Circle Algorithm
+- Midpoint Ellipse Algorithm
+- Painter's Algorithm
+- Scan line Polygon Fill Algorithm
+- Projection models
+- Scan line method
+- Sutherland-Hodgeman Algorithm
+- Transformation models
+- Z-buffer method
